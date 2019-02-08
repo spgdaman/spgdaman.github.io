@@ -5,6 +5,17 @@ html{
 
 body{
   margin: 0;
+  font-family: sans-serif;
+}
+
+.links{
+  text-align: center;
+  list-style: none;
+}
+
+.links li{
+  display: inline;
+  text-decoration: none;
 }
 
 .profile-pic{
@@ -22,5 +33,22 @@ body{
 
 .hero-text{
   text-align: center;
-  font-family: sans-serif;
+}
+
+.portfolio{
+  padding-top: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #c8e8ed;
+}
+
+.section-title{
+  padding-bottom: 7px;
+}
+
+.project{
+  display: inline-block;
+  clear:both;
+  padding-left: 20px;
+  padding-right: 20px;
 }
