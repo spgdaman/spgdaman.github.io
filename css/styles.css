@@ -52,6 +52,7 @@ a{
   padding-bottom: 20px;
 }
 
+/* About Me */
 .about-me{
   background-color: #f3f8ff;
   padding-top: 10px;
@@ -77,6 +78,7 @@ a{
   text-align: center;
 }
 
+/* Portfolio */
 .portfolio{
   padding: 10px 50px 10px 50px;
   background-color: #deecff;
@@ -85,8 +87,8 @@ a{
 .section-title{
   text-align: center;
   margin: 0;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 35px;
 }
 
 .project{
@@ -111,6 +113,10 @@ a{
   height: 300px;
 }
 
+.description{
+  margin: 0;
+  padding-bottom: 25px;
+}
 
 /* Footer section */
 #footer{
