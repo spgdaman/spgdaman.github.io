@@ -60,6 +60,7 @@ a{
 }
 
 .all-me{
+  text-align: center;
   margin-left: 25px;
   margin-right: 25px;
   width: auto;
@@ -78,10 +79,15 @@ a{
   text-align: center;
 }
 
+.cv{
+  text-decoration: underline;
+}
+
 /* Portfolio */
 .portfolio{
   padding: 10px 50px 10px 50px;
   background-color: #deecff;
+  text-align: center;
 }
 
 .section-title{
