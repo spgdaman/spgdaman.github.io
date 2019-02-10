@@ -31,7 +31,7 @@ a{
 }
 
 .header{
-  background-color: #69779b;
+  background-color: #f3f8ff;
   padding-top: 25px;
   padding-bottom: 25px;
 }
@@ -44,26 +44,30 @@ a{
 }
 
 .about-me{
-  background-color: #acdbdf;
+  background-color: #deecff;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
 .all-me{
-  display: inline-block;
-  clear: both;
-  margin-left: 90px;
-  margin-right: 90px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 .also-me{
-  margin-left: 30px;
-  margin-right: 30px;
+  display: inline-block;
+  clear: both;
+  margin: 0;
+  width: auto;
+}
+
+.also-me h3{
+  text-align: center;
 }
 
 .portfolio{
   padding: 25px 50px 25px 50px;
-  background-color: #9692af;
+  background-color: #c6cfff;
 }
 
 .section-title{
@@ -75,4 +79,6 @@ a{
   clear: both;
   padding-left: 20px;
   padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
