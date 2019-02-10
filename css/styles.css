@@ -83,6 +83,10 @@ a{
   text-decoration: underline;
 }
 
+.line-space{
+  line-height: 25px;
+}
+
 .hobbies{
   list-style-type: none;
 }
