@@ -136,9 +136,31 @@ a{
   padding-bottom: 25px;
 }
 
+/* Contact Me section */
+#Contact-me{
+  background-color: #f3f8ff;
+}
+
+form{
+  font-size: 15px;
+  text-align: center;
+  padding-bottom: 35px;
+}
+
+.radius{
+  height: 35px;
+  width: 20%;
+  border-radius: 15px;
+
+}
+
+.submit{
+  background-color: #deecff;
+}
+
 /* Footer section */
 #footer{
-  background-color: #f3f8ff;
+  background-color: #deecff;
   padding: 2% 7%;
   text-align: center;
 }
