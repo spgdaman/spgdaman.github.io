@@ -5,15 +5,16 @@ html{
 
 body{
   margin: 0;
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 a{
   color: black;
 }
 
-hover::a{
+a:hover{
   color: gray;
+  text-decoration: underline;
 }
 
 .links li{
@@ -39,7 +40,7 @@ a{
 }
 
 .header{
-  background-color: #f3f8ff;
+  background-color: #deecff;
   padding-top: 25px;
   padding-bottom: 25px;
 }
@@ -52,7 +53,7 @@ a{
 }
 
 .about-me{
-  background-color: #deecff;
+  background-color: #f3f8ff;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -78,7 +79,7 @@ a{
 
 .portfolio{
   padding: 10px 50px 10px 50px;
-  background-color: #c6cfff;
+  background-color: #deecff;
 }
 
 .section-title{
@@ -108,4 +109,21 @@ a{
 .proj-img{
   width: 300px;
   height: 300px;
+}
+
+
+/* Footer section */
+#footer{
+  background-color: #f3f8ff;
+  padding: 2% 7%;
+  text-align: center;
+}
+
+.copyright{
+  padding: 20px 30px;
+  margin: 0;
+}
+
+.social{
+  margin: 20px 10px;
 }
