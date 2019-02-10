@@ -150,8 +150,13 @@ form{
 .radius{
   height: 35px;
   width: 20%;
-  border-radius: 15px;
+  border: solid 1px gray;
+  border-radius: 10px;
+}
 
+.message{
+  width: 20%;
+  border-radius: 10px;
 }
 
 .submit{
