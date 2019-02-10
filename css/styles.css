@@ -83,6 +83,10 @@ a{
   text-decoration: underline;
 }
 
+.hobbies{
+  list-style-type: none;
+}
+
 /* Portfolio */
 .portfolio{
   padding: 10px 50px 10px 50px;
