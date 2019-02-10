@@ -14,4 +14,4 @@ https://spgdaman.github.io/
 Follow the link above and clone or download the project.
 
 ##License information
-The project is open source, and is free to use modify and redistribute.
+The project is open source and is free to use, modify and redistribute.
